@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Amit Dobal, a passionate software developer based in Gurugram, India. With over 2 years of hands-on experience, I specialize in Java, Spring framework, ReactJs, and PL/SQL. I hold an M.Tech degree from NIT Jaipur, securing an impressive AIR 5241 in the GATE exam.
+👋 Hi there! I'm Amit Dobal, a passionate software developer based in Gurugram, India. With over 2 years of hands-on experience, I specialize in Java, Spring framework, ReactJs, and PL/SQL.
 
 💻 In my current role at Tata Consultancy Services, I've contributed to the design and development of impactful projects, such as RX Connect, a Java-based prescription management application. Additionally, my personal projects, like the E-Commerce website using the MERN stack and the Course Selling website API with Spring Boot, reflect my commitment to delivering high-quality software solutions.
 
